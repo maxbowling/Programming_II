@@ -7,3 +7,4 @@ ax.grid()
 graph = ax.scatter([1,2,3,4],[1,2,3,4],color='red')
 
 plt.savefig("Example2.png")
+plt.show()
