@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 fig,ax = plt.subplots()
 fig.set_facecolor('lightblue')
-fig.suptitle('Cool Graph')
+fig.suptitle('Blue Graph')
 ax.grid()
 graph = ax.scatter([1,2,3,4],[1,2,3,4],color='red')
 
